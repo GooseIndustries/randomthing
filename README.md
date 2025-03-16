@@ -21,7 +21,7 @@ Installation
     Clone or Download the Repository
     You can either clone the repository or download the zip file. Make sure you have Python installed on your system.
 
-git clone https://github.com/yourusername/randomthing.git
+git clone https://github.com/GooseIndustries/randomthing.git
 
 Install Dependencies
 RandomThing requires a few Python libraries to run. You can install them via pip:
