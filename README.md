@@ -55,6 +55,6 @@ Contributing
 If you'd like to contribute to the development of RandomThing, please fork the repository, make your changes, and submit a pull request. We welcome ideas for new features (preferably funny or entertaining ones) and improvements.
 License
 
-RandomThing is licensed under the MIT License. Feel free to modify, share, or make changes to the script, but remember: use at your own risk (and with a sense of humor!).
+RandomThing is licensed under the GPL License. Feel free to modify, share, or make changes to the script, but remember: use at your own risk (and with a sense of humor!).
 
 
